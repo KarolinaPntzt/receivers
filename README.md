@@ -4,7 +4,8 @@ This repository is dedicated to storing code and ancillary data used for creatin
 <br>
 <br>
 
-<img src="https://github.com/KarolinaPntzt/receivers/horizontal_placement_of_receivers_method.JPG"></img>
+
+<center><img src="https://github.com/KarolinaPntzt/receivers/blob/main/img/horizontal_placement_of_receivers_method.JPG?raw=True" width=70%)></img></center>
 
 
 <br>
