@@ -1,5 +1,14 @@
 # receivers
-This repository is dedicated to storing code and ancillary data used for creating receivers (vector point layer) at different heights of a 3D building facade (implementing the CNOSSOS horizontal placement method of receivers) for noise simulations. The method is described on p. 114-115 within [Kefalopoulos et al. (2012)](https://publications.jrc.ec.europa.eu/repository/handle/JRC72550).
+This repository is dedicated to storing code and ancillary data used for creating receivers (vector point layer) at different heights of a 3D building facade (implementing the CNOSSOS horizontal placement method of receivers) for noise simulations. The method is described on p. 114-115 within [Kefalopoulos et al. (2012)](https://publications.jrc.ec.europa.eu/repository/handle/JRC72550) and presented in the figure below:
+
+<br>
+<br>
+
+<img src="https://github.com/KarolinaPntzt/receivers/horizontal_placement_of_receivers_method.JPG"></img>
+
+
+<br>
+<br>
 
 The repository includes the following:
 
